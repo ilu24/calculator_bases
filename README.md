@@ -1,7 +1,7 @@
 # calculator_bases
 Multi-base calculator and conversion interface.
 
-Created by Isabella Lu (@ilu24), Chris Moll (@lobsterzerg), Sam Moll (@smoll24).
+Created by Isabella Lu (@ilu24), Chris Moll (@cmoll24), Sam Moll (@smoll24).
 
 ---
 ### some functionalities:
